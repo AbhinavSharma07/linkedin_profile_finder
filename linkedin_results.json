@@ -1,0 +1,48 @@
+[ 
+  {
+    "company": "CompanyName1",
+    "contacts": [
+      {
+        "Entreprise": "CompanyName1",
+        "Nom": "Name Surname",
+        "Poste": "Technical Project Manager",
+        "Lien": "https://fr.linkedin.com/in/name-surname"
+      },
+      {
+        "Entreprise": "CompanyName1",
+        "Nom": "Name Surname",
+        "Poste": "Technical Project Manager",
+        "Lien": "https://fr.linkedin.com/in/name-surname"
+      }
+    ]
+  },
+  {
+    "company": "CompanyName2",
+    "contacts": [
+      {
+        "Entreprise": "CompanyName2",
+        "Nom": "Name Surname",
+        "Poste": "Technical Project Manager",
+        "Lien": "https://fr.linkedin.com/in/name-surname"
+      },
+      {
+        "Entreprise": "CompanyName2",
+        "Nom": "Name Surname",
+        "Poste": "Technical Project Manager",
+        "Lien": "https://fr.linkedin.com/in/name-surname"
+      },
+      {
+        "Entreprise": "CompanyName2",
+        "Nom": "Name Surname",
+        "Poste": "Technical Project Manager",
+        "Lien": "https://fr.linkedin.com/in/name-surname"
+      },
+      {
+        "Entreprise": "CompanyName2",
+        "Nom": "Name Surname",
+        "Poste": "Technical Project Manager",
+        "Lien": "https://fr.linkedin.com/in/name-surname"
+      }
+    ]
+  }
+]
