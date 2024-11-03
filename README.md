@@ -1,5 +1,5 @@
 # LinkedIn Profiles Finder 🎯 
-
+ 
 This Python script finds LinkedIn profiles based on company names and job titles. It uses Google Dorks queries to search for LinkedIn profiles and extracts names, job titles, and LinkedIn profile links.
 
 ## Getting Started 🚀
